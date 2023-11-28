@@ -1,0 +1,9 @@
+body {
+    background: linear-gradient(to right , #edaef9, #81b1fa); /*Es el predeterminado hace un degradado de arriba a abajo se puede hacer tambien de izquierda a derecha*/
+ 
+    height: 100vh ;
+    width: 100vw;
+
+}
+
+/*
